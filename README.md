@@ -9,6 +9,7 @@
 
 * Grid locations are computed using the std::lower_bound function, which uses a binary search.
 
-* The code has been tested for three and four dimensions.
+* There are examples and comparison to python for one to three dimensions.
+* The code has been tested for three and four dimensions using another production code.
 
 * Note that values out of bounds are linearly extrapolated using the nearest two grid points in a given dimension.
